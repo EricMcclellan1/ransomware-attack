@@ -82,7 +82,7 @@ In addition to this, a new file is created on the desktop notifying the user tha
 
 
 <details> 
-  <summary><h2>Analysis Of Ransomwarep</h2></summary>
+  <summary><h2>Analysis Of Ransomware</h2></summary>
 
 Lastly, I used VirustTotal to analyze our ransomware that we just used.
 
